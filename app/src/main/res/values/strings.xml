@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name ="main_email" >E-mail</string>
+    <string name="main_password">Password</string>
+    <string name="main_email_hint">Digite seu e-mail</string>
+    <string name="main_password_hint">Digite sua senha</string>
+    <string name="main_btn_login">Entrar</string>
+
+</resources>
