@@ -5,5 +5,8 @@
     <string name="main_email_hint">Digite seu e-mail</string>
     <string name="main_password_hint">Digite sua senha</string>
     <string name="main_btn_login">Entrar</string>
+    <string name="logged_subtitle_txt">E-mails</string>
+    <string name="logged_btn_logout">Sair</string>
+    <string name="logged_email_txt">ale_junior97@hotmail.com</string>
 
 </resources>

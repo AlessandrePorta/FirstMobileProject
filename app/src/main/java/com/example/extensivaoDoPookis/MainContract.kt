@@ -1,9 +1,10 @@
 package com.example.extensivaoDoPookis
 
-interface Contract {
+interface MainContract {
 
     interface View {
         fun showFeedback(text:String)
+        fun navigateLoggedActivity()
     }
 
     interface Presenter{
