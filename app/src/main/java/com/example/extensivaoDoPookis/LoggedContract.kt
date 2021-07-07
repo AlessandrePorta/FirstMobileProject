@@ -4,6 +4,7 @@ class LoggedContract {
 
     interface View {
         fun showFeedback(text:String)
+        fun navigateLoggedActivity()
     }
 
     interface Presenter{
